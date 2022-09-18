@@ -8,6 +8,13 @@ body{
     line-height: 24px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
+	  background-color:#eee;
+}
+main {
+	border: 1px solid #bbb;
+	padding: 1rem;
+	background-color: #bed;
+	box-shadow: 0 0 20px rgba(0,0,0,.1);
 }
 
 header, main, footer {
