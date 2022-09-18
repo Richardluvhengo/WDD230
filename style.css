@@ -1,10 +1,24 @@
 
 
 
-* {margin:0; box-sizing: border-box; }
+* {margin: 2px; box-sizing: border-box; }
 
 body{
-    font-size: 12px;
+    font-size: 32px;
+    line-height: 32px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
+}
+
+header, main, footer {
+    margin: auto;
+    text-align: center;
+    max-width: fit-content;
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: blue;
 }
